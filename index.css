@@ -1,0 +1,24 @@
+.Welcome {
+	font-family: "Courier New";
+	font-size: 40px;
+}
+
+#footer {
+	position: absolute;
+	font-family: "Courier New";
+	bottom: 5px;
+	right: 5px;
+}
+
+#clock {
+	font-family: "Courier New";
+	font-size: 40px;
+	display: none;
+	text-align: center;
+}
+
+#more-time {
+	font-family: "Courier New";
+	font-size: 40px;
+	text-align: center;
+}
